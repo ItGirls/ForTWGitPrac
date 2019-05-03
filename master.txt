@@ -1,2 +1,3 @@
 Learn how to use git. 
 Pattern 1.
+On branch master.
